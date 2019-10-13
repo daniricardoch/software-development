@@ -3,5 +3,5 @@
 ### This was the homework for _October 14th_ Homework 
 
 
-[This][user] is a link to my Github profile.
-[user]: https://github.com/daniricardoch
+[This] is a link to my Github profile.
+[This]: https://github.com/daniricardoch
