@@ -1,9 +1,7 @@
-# This project is called *software-development*
+# Description
 
-### This was the homework for _October 14th_ Homework 
+This is Daniel Ricardo's Homework for session 12 and 13.
 
+## Edited by:
 
-[This] is a link to my Github profile.
-
-
-[This]: https://github.com/daniricardoch
+Matheus Paro Ferreira - [Linkedin Profile](https://www.linkedin.com/in/matheusparoferreira/)
